@@ -1,9 +1,3 @@
-// Name: Reese Stichter
-// Class: CPSC-1020
-// Date: 4/23/2024
-// Project 4
-// Approximate time invested: 40 hours
-// Description: Implementation file for Recommend
 // The file implementing all the functions needed
 // to produce all action desired from the Book recommender
 // Includes comments, debug statements only ran when debug = true,
