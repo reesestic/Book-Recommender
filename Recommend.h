@@ -1,9 +1,3 @@
-// Name: Reese Stichter
-// Class: CPSC-1020
-// Date: 4/23/2024
-// Project 4
-// Approximate time invested: 40 hours
-// Description: Header file for Recommend
 // Code provided by Prof Wooster using #defines to set data types,
 // initializing all private variables data types
 // and prodividing the desired functions
