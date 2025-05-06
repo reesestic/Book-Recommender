@@ -1,9 +1,3 @@
-// Name: Reese Stichter
-// Class: CPSC-1020
-// Date: 4/23/2024
-// Project 4
-// Approximate time invested: 40 hours
-// Description: Main file for Recommend
 // This is the file where the user can interact and select
 // a test file for data to output.
 // It has all options from Wooster's video and allows
